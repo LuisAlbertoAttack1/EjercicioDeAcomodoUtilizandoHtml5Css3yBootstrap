@@ -1,0 +1,53 @@
+.ColorDeFondo {
+    background-color: #e5e5e5;
+}
+
+.TipoDeLetra {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.TamañoDeCirculo {
+    height: 5rem;
+    width: 5rem;
+}
+
+.PrimerColor {
+    background-color: #212529;
+}
+
+.SegundoColor {
+    background-color: #343a40;
+}
+
+.TercerColor {
+    background-color: #495057;
+}
+
+.CuartoColor {
+    background-color: #6c757d;
+}
+
+.ColorVerde {
+    background-color: #31572c;
+}
+
+.ColorRojo {
+    background-color: red;
+}
+
+.ColorAmarillo {
+    background-color: #ffea00;
+}
+
+.ColorAzul {
+    background-color: blue;
+}
+
+.ColorNaranja {
+    background-color: #ff5714;
+}
+
+.TamañoDeImg {
+    height: 10rem;
+    width: 15rem;
+}
